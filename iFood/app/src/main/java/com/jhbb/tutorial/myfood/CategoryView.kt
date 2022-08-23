@@ -1,8 +1,9 @@
-package co.tiagoaguiar.tutorial.myfood
+package com.jhbb.tutorial.myfood
 
 import android.graphics.drawable.GradientDrawable
 import android.view.ViewGroup
 import co.tiagoaguiar.atway.ui.adapter.ATViewHolder
+import co.tiagoaguiar.tutorial.myfood.Category
 import co.tiagoaguiar.tutorial.myfood.databinding.CategoryItemBinding
 import com.squareup.picasso.Callback
 import com.squareup.picasso.Picasso

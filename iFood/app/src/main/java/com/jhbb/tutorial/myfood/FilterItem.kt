@@ -1,9 +1,10 @@
-package co.tiagoaguiar.tutorial.myfood
+package com.jhbb.tutorial.myfood
 
 import android.content.Context
 import android.view.ContextThemeWrapper
 import android.view.LayoutInflater
 import androidx.annotation.DrawableRes
+import co.tiagoaguiar.tutorial.myfood.R
 import com.google.android.material.chip.Chip
 
 data class FilterItem(

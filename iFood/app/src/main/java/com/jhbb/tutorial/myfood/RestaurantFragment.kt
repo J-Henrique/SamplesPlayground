@@ -1,4 +1,4 @@
-package co.tiagoaguiar.tutorial.myfood
+package com.jhbb.tutorial.myfood
 
 import android.os.Bundle
 import android.view.View
@@ -10,6 +10,7 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.LinearSnapHelper
 import androidx.recyclerview.widget.RecyclerView
 import co.tiagoaguiar.atway.ui.adapter.ATAdapter
+import co.tiagoaguiar.tutorial.myfood.*
 import co.tiagoaguiar.tutorial.myfood.databinding.FragmentRestaurantBinding
 
 class RestaurantFragment : Fragment(R.layout.fragment_restaurant) {

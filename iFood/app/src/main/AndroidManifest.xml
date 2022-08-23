@@ -13,7 +13,7 @@
         android:theme="@style/Theme.MyFood">
         <activity
             android:exported="true"
-            android:name=".MainActivity">
+            android:name="com.jhbb.tutorial.myfood.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

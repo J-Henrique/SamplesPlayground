@@ -1,9 +1,10 @@
-package co.tiagoaguiar.tutorial.myfood
+package com.jhbb.tutorial.myfood
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import co.tiagoaguiar.tutorial.myfood.databinding.ActivityMainBinding
 import com.google.android.material.tabs.TabLayoutMediator
+import com.jhbb.tutorial.myfood.TabViewPagerAdapter
 
 class MainActivity : AppCompatActivity() {
 

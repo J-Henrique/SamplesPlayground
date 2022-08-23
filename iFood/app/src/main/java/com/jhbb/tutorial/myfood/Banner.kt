@@ -1,4 +1,4 @@
-package co.tiagoaguiar.tutorial.myfood
+package com.jhbb.tutorial.myfood
 
 data class Banner(
     val id: Int,

@@ -1,8 +1,9 @@
-package co.tiagoaguiar.tutorial.myfood
+package com.jhbb.tutorial.myfood
 
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentActivity
 import androidx.viewpager2.adapter.FragmentStateAdapter
+import co.tiagoaguiar.tutorial.myfood.R
 
 class TabViewPagerAdapter(fa: FragmentActivity): FragmentStateAdapter(fa) {
 

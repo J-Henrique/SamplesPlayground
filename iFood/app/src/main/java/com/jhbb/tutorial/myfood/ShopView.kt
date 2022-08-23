@@ -1,8 +1,7 @@
-package co.tiagoaguiar.tutorial.myfood
+package com.jhbb.tutorial.myfood
 
 import android.view.ViewGroup
 import co.tiagoaguiar.atway.ui.adapter.ATViewHolder
-import co.tiagoaguiar.tutorial.myfood.databinding.BannerItemBinding
 import co.tiagoaguiar.tutorial.myfood.databinding.ShopItemBinding
 import com.squareup.picasso.Picasso
 
